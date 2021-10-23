@@ -32,7 +32,7 @@ layout: 'intro'
 # 장기효
 
 <div class="leading-8 opacity-80">
-네이버 프런트엔드 개발자<br>
+(현) 프런트엔드 개발자<br>
 <a href="https://www.youtube.com/channel/UCX04UECIFaAjNnsak6GzpZg" target="_blank"><logos-youtube-icon class="inline-block m-1" />캡틴판교의 프런트엔드 개발 상담소 유튜브 채널 운영</a><br>
 <a href="https://www.inflearn.com/users/@captain" target="_blank"><img style="height: 1em; margin: 0 0.3em 0.1em 0.3em;" class="inline-block mb-0.8" src="/inflearn.png"/>대학생, 실무자를 위한 인프런 멘토링 프로그램 운영</a><br>
 </div>
@@ -857,15 +857,6 @@ export default {
 }
 </script>
 ```
-
----
-layout: sfc
-example: LoginForm
----
-
-# @vue/composition-api 적용 포인트 안내
-
-composition-plugin-sample.vue 파일 참고
 
 ---
 
