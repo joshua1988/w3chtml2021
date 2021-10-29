@@ -64,7 +64,7 @@ layout: big-points
   <ul>
     <li>Vue 3의 등장</li>
     <li>실무자가 바라본 Vue 3</li> 
-    <li>Composition과 TypeScript</li>
+    <li>Vue Composition과 TypeScript</li>
     <li>Vue 3 준비와 도입 시기</li>
   </ul>
 </div>
