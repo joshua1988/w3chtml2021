@@ -21,7 +21,7 @@ altCover: true
 
 # Vue Composition과 TypeScript
 
-Vue 2와 Vue 3에서 모두 사용할 수 있는
+Vue 2에서 Vue 3까지
 
 <small>장기효(캡틴판교)</small>
 
