@@ -103,7 +103,7 @@ layout: section
 
 # 코드 재사용을 위한 Composition API
 
-```html {all|2,11,12,17,18,20|3,14,15,17,19,20|1-4}
+```html {all|2,11,12,17,18,20|3,14,15,17,19,20}
 <template>
   <div>{{ message }}</div>
   <button @click="changeMessage">변경</button>
